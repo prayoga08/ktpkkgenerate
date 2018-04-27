@@ -1,10 +1,10 @@
 # Content
-KTP & KK Generate
-# Contact Me
+ktp & kk Generate
+# Contact Me
 zerosvn@merahputih.id
-# Spesial Thanks
-BabbyCyberTeam || SGB-Team || JNCK MEDIA
-# Command Install Tools For Termux & Linux (pc)
+# Spesial Thanks
+BabbyCyberTeam - SGB-TEAM - JNCK MEDIA.
+# Command Install For Termux / Linux (pc)
 ```
 $ pkg install php
 $ pkg install git
